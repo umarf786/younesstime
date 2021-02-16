@@ -1,0 +1,11 @@
+.Time {
+    width:90%;
+    height:100%;
+    font-family: courier, monospace;
+    color: white;
+    font-size: 110px;
+}
+
+  @media only screen and (max-width: 992px) {
+    .Time {font-size:50px;}
+  } 
