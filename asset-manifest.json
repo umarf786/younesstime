@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/younesstime/static/css/main.12e72a3d.chunk.css",
+    "main.js": "/younesstime/static/js/main.3e771276.chunk.js",
+    "main.js.map": "/younesstime/static/js/main.3e771276.chunk.js.map",
+    "runtime-main.js": "/younesstime/static/js/runtime-main.38962596.js",
+    "runtime-main.js.map": "/younesstime/static/js/runtime-main.38962596.js.map",
+    "static/js/2.7b1c3fc3.chunk.js": "/younesstime/static/js/2.7b1c3fc3.chunk.js",
+    "static/js/2.7b1c3fc3.chunk.js.map": "/younesstime/static/js/2.7b1c3fc3.chunk.js.map",
+    "index.html": "/younesstime/index.html",
+    "precache-manifest.83c332d3abee681160be4e5add2cec02.js": "/younesstime/precache-manifest.83c332d3abee681160be4e5add2cec02.js",
+    "service-worker.js": "/younesstime/service-worker.js",
+    "static/css/main.12e72a3d.chunk.css.map": "/younesstime/static/css/main.12e72a3d.chunk.css.map",
+    "static/js/2.7b1c3fc3.chunk.js.LICENSE": "/younesstime/static/js/2.7b1c3fc3.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38962596.js",
+    "static/js/2.7b1c3fc3.chunk.js",
+    "static/css/main.12e72a3d.chunk.css",
+    "static/js/main.3e771276.chunk.js"
+  ]
+}
